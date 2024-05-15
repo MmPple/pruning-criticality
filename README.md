@@ -1,8 +1,3 @@
-Modified based on the code of 
-Membrane Potential Batch Normalization for Spiking Neural Networks
-Sparse Training via Boosting Pruning Plasticity with Neuroregeneration
-Learning Efficient Convolutional Networks Through Network Slimming
-
 This code contains unstructed pruning and structured pruning experments.
 
 For run our code, need Pytorch and spikingjelly pacakage:
